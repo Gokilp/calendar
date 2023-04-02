@@ -6,4 +6,4 @@ The program first prompts the user to enter the date, month, and year using prin
 
 If the entered date is valid, the program prints the entered date using printf and the format string "dd:mm:yyyy". If the entered date is invalid, the program prints an error message using printf.
 
-e this code as an example of basic input validation in C programming. You can explain that this program checks if a date entered by the user is valid for a given month and prints the entered date in a standard format if it is valid. You can also explain the use of printf and scanf statements to prompt and receive input from the user, as well as the use of if and else statements to check for valid input.
+This code as an example of basic input validation in C programming. You can explain that this program checks if a date entered by the user is valid for a given month and prints the entered date in a standard format if it is valid. You can also explain the use of printf and scanf statements to prompt and receive input from the user, as well as the use of if and else statements to check for valid input.
